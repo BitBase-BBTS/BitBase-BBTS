@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi from BitBase 👋
 
 <!--
 **BitBase-BBTS/BitBase-BBTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
